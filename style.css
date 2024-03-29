@@ -32,6 +32,7 @@ body{
 .img-svg {
     width: 100%;
     border-radius: 12px;
+    object-fit: cover;
     margin-bottom: 20px;
 }
 
