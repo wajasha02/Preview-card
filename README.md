@@ -47,4 +47,4 @@ I will continue to do projects to enhance and strengthen my skills. I want to bu
 
 ## Author
 
-- Frontend Mentor - [@wajasha0](https://www.frontendmentor.io/profile/wajasha02)
+- Frontend Mentor - [@wajasha02](https://www.frontendmentor.io/profile/wajasha02)
