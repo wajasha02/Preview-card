@@ -25,7 +25,7 @@ body{
     border: 1px solid black;
     border-radius: 20px;
     padding: 25px;
-    box-shadow: 10px 10px 0px 0px;
+    box-shadow: 8px 8px 0px 0px;
     margin-bottom: 50px;
 }
 
@@ -68,6 +68,7 @@ div > button {
     color: hsl(0, 0%, 50%);
     line-height: 25px;
     margin-bottom: 20px;
+    font-weight: 500;
 }
 
 .author {
@@ -83,10 +84,14 @@ div > button {
     font-weight: 800;
 }
 
-.attribution {
-    font-size: 14px;
-    text-align: center;
-  }
-  .attribution a {
-    color: hsl(228, 45%, 44%);
+ 
+  @media screen and (max-width: 375px) {
+    .card {
+      max-width: 375px;
+      margin: 0 20px; 
+    }
+  
+    .avatar {
+      width: 20%; 
+    }
   }
